@@ -8,6 +8,7 @@ namespace Examen1SO
 {
     internal class Program
     {
+        private static int num = 10;
         static void Main(string[] args)
         {
         }
